@@ -23,7 +23,7 @@ const greeting = {
   username: "Hamza",
   title: "Hi all, I'm Hamza",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Django / React Native and some other cool libraries and frameworks."
+    "A passionate Full Stack AI Developer 🚀 having an experience of building Web and Mobile intelligent applications with JavaScript / Reactjs / Django  and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -49,7 +49,8 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle:
+    "CRAZY FULL STACK AI DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -73,7 +74,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt",
     },
     {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python",
     },
     {
@@ -81,7 +82,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js",
     },
     {
-      skillName: "reactjs",
+      skillName: "Reactjs",
       fontAwesomeClassname: "fab fa-react",
     },
     {
@@ -89,7 +90,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-brain",
     },
     {
-      skillName: "django",
+      skillName: "Django",
       fontAwesomeClassname: "fa-solid fa-code",
     },
     {
@@ -105,8 +106,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws",
     },
     {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire",
+      skillName: "Machine Learning",
+      fontAwesomeClassname: "fa-solid fa-microchip-ai",
     },
     {
       skillName: "azure",
